@@ -7,3 +7,6 @@ playing around
 Moving on.
 
 _Here is Louie making changes!_
+
+
+Adding changes in the text editor.
